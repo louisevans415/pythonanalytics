@@ -1,0 +1,1 @@
+This project was completed as part of my MIT Capstone - the goal of which was to find insights & business implications for a client car company, derived from sample data on the Indian Used Car market. 
